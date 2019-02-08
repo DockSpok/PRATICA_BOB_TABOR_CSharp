@@ -1,0 +1,7 @@
+C:\Users\xmen\source\repos\10-bobTabor-Methods\10-bobTabor-Methods\bin\Debug\10-bobTabor-Methods.exe.config
+C:\Users\xmen\source\repos\10-bobTabor-Methods\10-bobTabor-Methods\bin\Debug\10-bobTabor-Methods.exe
+C:\Users\xmen\source\repos\10-bobTabor-Methods\10-bobTabor-Methods\bin\Debug\10-bobTabor-Methods.pdb
+C:\Users\xmen\source\repos\10-bobTabor-Methods\10-bobTabor-Methods\obj\Debug\10-bobTabor-Methods.csprojAssemblyReference.cache
+C:\Users\xmen\source\repos\10-bobTabor-Methods\10-bobTabor-Methods\obj\Debug\10-bobTabor-Methods.csproj.CoreCompileInputs.cache
+C:\Users\xmen\source\repos\10-bobTabor-Methods\10-bobTabor-Methods\obj\Debug\10-bobTabor-Methods.exe
+C:\Users\xmen\source\repos\10-bobTabor-Methods\10-bobTabor-Methods\obj\Debug\10-bobTabor-Methods.pdb

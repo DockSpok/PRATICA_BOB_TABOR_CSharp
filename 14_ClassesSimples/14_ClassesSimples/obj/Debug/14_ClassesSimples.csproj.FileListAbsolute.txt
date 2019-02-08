@@ -1,0 +1,7 @@
+c:\users\xmen\source\repos\14_ClassesSimples\14_ClassesSimples\bin\Debug\14_ClassesSimples.exe.config
+c:\users\xmen\source\repos\14_ClassesSimples\14_ClassesSimples\bin\Debug\14_ClassesSimples.exe
+c:\users\xmen\source\repos\14_ClassesSimples\14_ClassesSimples\bin\Debug\14_ClassesSimples.pdb
+c:\users\xmen\source\repos\14_ClassesSimples\14_ClassesSimples\obj\Debug\14_ClassesSimples.csprojAssemblyReference.cache
+c:\users\xmen\source\repos\14_ClassesSimples\14_ClassesSimples\obj\Debug\14_ClassesSimples.csproj.CoreCompileInputs.cache
+c:\users\xmen\source\repos\14_ClassesSimples\14_ClassesSimples\obj\Debug\14_ClassesSimples.exe
+c:\users\xmen\source\repos\14_ClassesSimples\14_ClassesSimples\obj\Debug\14_ClassesSimples.pdb

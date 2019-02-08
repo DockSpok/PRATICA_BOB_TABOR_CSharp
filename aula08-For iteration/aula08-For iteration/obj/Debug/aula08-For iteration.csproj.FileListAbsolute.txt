@@ -1,0 +1,7 @@
+C:\Users\xmen\source\repos\aula08-For iteration\aula08-For iteration\obj\Debug\aula08-For iteration.csprojAssemblyReference.cache
+C:\Users\xmen\source\repos\aula08-For iteration\aula08-For iteration\obj\Debug\aula08-For iteration.csproj.CoreCompileInputs.cache
+C:\Users\xmen\source\repos\aula08-For iteration\aula08-For iteration\bin\Debug\aula08-For iteration.exe.config
+C:\Users\xmen\source\repos\aula08-For iteration\aula08-For iteration\bin\Debug\aula08-For iteration.exe
+C:\Users\xmen\source\repos\aula08-For iteration\aula08-For iteration\bin\Debug\aula08-For iteration.pdb
+C:\Users\xmen\source\repos\aula08-For iteration\aula08-For iteration\obj\Debug\aula08-For iteration.exe
+C:\Users\xmen\source\repos\aula08-For iteration\aula08-For iteration\obj\Debug\aula08-For iteration.pdb

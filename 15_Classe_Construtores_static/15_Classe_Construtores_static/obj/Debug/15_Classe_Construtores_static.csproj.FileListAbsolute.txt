@@ -1,0 +1,7 @@
+c:\users\xmen\source\repos\15_Classe_Construtores_static\15_Classe_Construtores_static\bin\Debug\15_Classe_Construtores_static.exe.config
+c:\users\xmen\source\repos\15_Classe_Construtores_static\15_Classe_Construtores_static\bin\Debug\15_Classe_Construtores_static.exe
+c:\users\xmen\source\repos\15_Classe_Construtores_static\15_Classe_Construtores_static\bin\Debug\15_Classe_Construtores_static.pdb
+c:\users\xmen\source\repos\15_Classe_Construtores_static\15_Classe_Construtores_static\obj\Debug\15_Classe_Construtores_static.csprojAssemblyReference.cache
+c:\users\xmen\source\repos\15_Classe_Construtores_static\15_Classe_Construtores_static\obj\Debug\15_Classe_Construtores_static.csproj.CoreCompileInputs.cache
+c:\users\xmen\source\repos\15_Classe_Construtores_static\15_Classe_Construtores_static\obj\Debug\15_Classe_Construtores_static.exe
+c:\users\xmen\source\repos\15_Classe_Construtores_static\15_Classe_Construtores_static\obj\Debug\15_Classe_Construtores_static.pdb

@@ -1,0 +1,7 @@
+C:\Users\xmen\source\repos\Decisoes\Decisoes\bin\Debug\Decisoes.exe.config
+C:\Users\xmen\source\repos\Decisoes\Decisoes\bin\Debug\Decisoes.exe
+C:\Users\xmen\source\repos\Decisoes\Decisoes\bin\Debug\Decisoes.pdb
+C:\Users\xmen\source\repos\Decisoes\Decisoes\obj\Debug\Decisoes.csprojAssemblyReference.cache
+C:\Users\xmen\source\repos\Decisoes\Decisoes\obj\Debug\Decisoes.csproj.CoreCompileInputs.cache
+C:\Users\xmen\source\repos\Decisoes\Decisoes\obj\Debug\Decisoes.exe
+C:\Users\xmen\source\repos\Decisoes\Decisoes\obj\Debug\Decisoes.pdb

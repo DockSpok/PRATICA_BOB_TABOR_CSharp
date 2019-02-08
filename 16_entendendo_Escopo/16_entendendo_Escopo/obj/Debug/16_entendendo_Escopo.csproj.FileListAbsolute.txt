@@ -1,0 +1,6 @@
+c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\bin\Debug\16_entendendo_Escopo.exe.config
+c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\bin\Debug\16_entendendo_Escopo.exe
+c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\bin\Debug\16_entendendo_Escopo.pdb
+c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.csproj.CoreCompileInputs.cache
+c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.exe
+c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.pdb

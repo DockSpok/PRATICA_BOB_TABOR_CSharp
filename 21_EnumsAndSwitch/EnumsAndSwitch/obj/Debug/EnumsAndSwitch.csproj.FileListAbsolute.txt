@@ -1,0 +1,7 @@
+C:\Users\xmen\source\repos\21_EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+C:\Users\xmen\source\repos\21_EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+C:\Users\xmen\source\repos\21_EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+C:\Users\xmen\source\repos\21_EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csprojAssemblyReference.cache
+C:\Users\xmen\source\repos\21_EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\xmen\source\repos\21_EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+C:\Users\xmen\source\repos\21_EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb

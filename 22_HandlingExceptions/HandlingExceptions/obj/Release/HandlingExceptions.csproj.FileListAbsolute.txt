@@ -1,0 +1,6 @@
+C:\Users\xmen\source\repos\22_HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.exe.config
+C:\Users\xmen\source\repos\22_HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.exe
+C:\Users\xmen\source\repos\22_HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.pdb
+C:\Users\xmen\source\repos\22_HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\xmen\source\repos\22_HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.exe
+C:\Users\xmen\source\repos\22_HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.pdb

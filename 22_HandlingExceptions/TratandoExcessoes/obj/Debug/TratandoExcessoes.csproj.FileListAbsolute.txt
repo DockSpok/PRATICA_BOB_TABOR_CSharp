@@ -1,0 +1,7 @@
+C:\Users\xmen\source\repos\22_HandlingExceptions\TratandoExcessoes\bin\Debug\TratandoExcessoes.exe.config
+C:\Users\xmen\source\repos\22_HandlingExceptions\TratandoExcessoes\bin\Debug\TratandoExcessoes.exe
+C:\Users\xmen\source\repos\22_HandlingExceptions\TratandoExcessoes\bin\Debug\TratandoExcessoes.pdb
+C:\Users\xmen\source\repos\22_HandlingExceptions\TratandoExcessoes\obj\Debug\TratandoExcessoes.csprojAssemblyReference.cache
+C:\Users\xmen\source\repos\22_HandlingExceptions\TratandoExcessoes\obj\Debug\TratandoExcessoes.csproj.CoreCompileInputs.cache
+C:\Users\xmen\source\repos\22_HandlingExceptions\TratandoExcessoes\obj\Debug\TratandoExcessoes.exe
+C:\Users\xmen\source\repos\22_HandlingExceptions\TratandoExcessoes\obj\Debug\TratandoExcessoes.pdb
