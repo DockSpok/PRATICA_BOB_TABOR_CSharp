@@ -6,12 +6,15 @@
         xmlns:local="clr-namespace:WPFEvents"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-     
+
     <Grid>
-        <Button x:Name="botao" Content="CLICK ME" HorizontalAlignment="Left" Margin="38,32,0,0" VerticalAlignment="Top" Width="75" Click="clique_Botao"/>
-        <Label x:Name="myLabel" Content="" HorizontalAlignment="Left" Margin="165,68,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="myOtherLabel" Content="" HorizontalAlignment="Left" Margin="255,152,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="meuLabel" Content="NenhumConteudo" HorizontalAlignment="Left" Margin="38,111,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="botao" Content="botao" HorizontalAlignment="Left" Margin="38,49,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Button x:Name="botao2" Content="botao 2" HorizontalAlignment="Left" Margin="38,101,0,0" VerticalAlignment="Top" Width="75" Click="botao2_MeuOutroClique"/>
+        <Button x:Name="botao3" Content="botao 3" HorizontalAlignment="Left" Margin="38,155,0,0" VerticalAlignment="Top" Width="75" Click="clique_Botao"/>
+        
+        <Label x:Name="myLabel" Content="VAZIO" HorizontalAlignment="Left" Margin="171,51,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="myOtherLabel" Content="VAZIO 2" HorizontalAlignment="Left" Margin="171,103,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="meuLabel3" Content="VAZIO 3" HorizontalAlignment="Left" Margin="171,157,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

@@ -23,14 +23,10 @@ namespace WPFEvents
         public MainWindow()
         {
             InitializeComponent();
-            botao.Click += button_MyOtherClick;
-     ///       botao.Click += clique_Botao;
+            botao.Click += button_Click;
+            botao2.Click += botao2_MeuOutroClique;
+            botao3.Click += clique_Botao;
 
-        }
-
-        private void button_MyOtherClick(object sender, RoutedEventArgs e)
-        {
-            myOtherLabel.Content = "Hello again!";
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
@@ -38,9 +34,14 @@ namespace WPFEvents
             myLabel.Content = "Hello world";
         }
 
-     ///   private void clique_Botao(object sender, RoutedEventArgs e)
-     ///   {
-     ///       meuLabel.Content = "Agora tem Conteudo ;)";
-     ///   }
+        private void botao2_MeuOutroClique(object sender, RoutedEventArgs e)
+        {
+            myOtherLabel.Content = "Hello again!";
+        }      
+        
+        private void clique_Botao(object sender, RoutedEventArgs e)
+        {
+            meuLabel3.Content = "Agora tem Conteudo ;)";
+        }
     }
 }

@@ -4,3 +4,10 @@ c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\bin\Debug\1
 c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.csproj.CoreCompileInputs.cache
 c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.exe
 c:\users\xmen\source\repos\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.pdb
+C:\Users\xmen\Documents\MAURO\001-UNA\000-PROGRAMACAO CODE\CURSO MSA CS BobTabor\PRATICA_BOB_TABOR_CSharp\16_entendendo_Escopo\16_entendendo_Escopo\bin\Debug\16_entendendo_Escopo.exe.config
+C:\Users\xmen\Documents\MAURO\001-UNA\000-PROGRAMACAO CODE\CURSO MSA CS BobTabor\PRATICA_BOB_TABOR_CSharp\16_entendendo_Escopo\16_entendendo_Escopo\bin\Debug\16_entendendo_Escopo.exe
+C:\Users\xmen\Documents\MAURO\001-UNA\000-PROGRAMACAO CODE\CURSO MSA CS BobTabor\PRATICA_BOB_TABOR_CSharp\16_entendendo_Escopo\16_entendendo_Escopo\bin\Debug\16_entendendo_Escopo.pdb
+C:\Users\xmen\Documents\MAURO\001-UNA\000-PROGRAMACAO CODE\CURSO MSA CS BobTabor\PRATICA_BOB_TABOR_CSharp\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.csprojAssemblyReference.cache
+C:\Users\xmen\Documents\MAURO\001-UNA\000-PROGRAMACAO CODE\CURSO MSA CS BobTabor\PRATICA_BOB_TABOR_CSharp\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.csproj.CoreCompileInputs.cache
+C:\Users\xmen\Documents\MAURO\001-UNA\000-PROGRAMACAO CODE\CURSO MSA CS BobTabor\PRATICA_BOB_TABOR_CSharp\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.exe
+C:\Users\xmen\Documents\MAURO\001-UNA\000-PROGRAMACAO CODE\CURSO MSA CS BobTabor\PRATICA_BOB_TABOR_CSharp\16_entendendo_Escopo\16_entendendo_Escopo\obj\Debug\16_entendendo_Escopo.pdb
